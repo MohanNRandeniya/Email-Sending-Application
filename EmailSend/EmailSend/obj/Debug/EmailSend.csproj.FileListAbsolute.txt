@@ -1,0 +1,27 @@
+c:\users\mohannr\documents\visual studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.exe.config
+C:\Users\MohanNR\documents\visual studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.exe
+C:\Users\MohanNR\documents\visual studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.pdb
+C:\Users\MohanNR\documents\visual studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.csprojResolveAssemblyReference.cache
+C:\Users\MohanNR\documents\visual studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.Form1.resources
+C:\Users\MohanNR\documents\visual studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.Properties.Resources.resources
+C:\Users\MohanNR\documents\visual studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.GenerateResource.Cache
+C:\Users\MohanNR\documents\visual studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.exe
+C:\Users\MohanNR\documents\visual studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.pdb
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.exe.config
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.exe
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.pdb
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.exe
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.pdb
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.csprojResolveAssemblyReference.cache
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.Form1.resources
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.Properties.Resources.resources
+C:\Users\House MoNaRa\Documents\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.GenerateResource.Cache
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.exe.config
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.exe
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\bin\Debug\EmailSend.pdb
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.csprojResolveAssemblyReference.cache
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.Form1.resources
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.Properties.Resources.resources
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.csproj.GenerateResource.Cache
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.exe
+D:\X\Visual Studio 2015\Visual Studio 2015\Projects\EmailSend\EmailSend\obj\Debug\EmailSend.pdb
